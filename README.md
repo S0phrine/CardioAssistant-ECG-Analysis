@@ -6,4 +6,4 @@
 ## Status 
 🇵🇱 Projekt jest ukończony. Pełna zawartość repozytorium zostanie opublikowana w połowie września 2026 r.
 
-🇬🇧 The project is completed. The full repository contents will be published in mid-September 2026.
+🇬🇧 The project is complete. The full repository contents will be published in mid-September 2026.
