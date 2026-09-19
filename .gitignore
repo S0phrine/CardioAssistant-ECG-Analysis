@@ -226,3 +226,7 @@ data/*.db
 
 # Trained model files
 *.joblib
+
+# MIT-BIH dataset downloaded locally
+data/mitdb/
+
