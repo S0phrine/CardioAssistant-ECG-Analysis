@@ -1,0 +1,14 @@
+{
+  "seed": 864,
+  "target_classes": ["N", "S", "V"],
+  "in_ch": 2,
+  "fs": 360,
+  "window": 90,
+  "rr_norm_mu": [1.0475095510482788],
+  "rr_norm_sd": [0.7962272763252258],
+  "model_hparams": {
+    "conv1_out": 96,
+    "p_drop": 0.2
+  },
+  "rr_feature_kind": "ratio"
+}
