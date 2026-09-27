@@ -1,0 +1,12 @@
+# Snapshot of direct dependencies used for the verification run.
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+torch==2.14.0
+wfdb==4.3.1
+matplotlib==3.10.8
+PyWavelets==1.10.0
+openpyxl==3.1.5
+joblib==1.5.3
